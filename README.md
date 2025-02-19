@@ -114,5 +114,6 @@ Future work may include:
 3. Run the notebook cells sequentially.
 
 ---
-
+## Author
+[Baha Demirtaş](https://github.com/queshyoda)
 
