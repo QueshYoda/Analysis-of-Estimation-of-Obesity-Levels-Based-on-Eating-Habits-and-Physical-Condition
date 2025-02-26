@@ -103,15 +103,11 @@ Future work may include:
 ---
 
 ## How to Run the Code
-1. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Open the Jupyter Notebook:
+1. Open the Jupyter Notebook:
    ```bash
    jupyter notebook COMP4462_project_group-7.ipynb
    ```
-3. Run the notebook cells sequentially.
+2. Run the notebook cells sequentially.
 
 ---
 ## Author
